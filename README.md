@@ -1,4 +1,4 @@
-# Scroll and Scrape
+# Scroll and Scrape Twitter
 > Store tweets from a Twitter search results, using browser scraping
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/scroll-and-scrape?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/scroll-and-scrape/releases/)
