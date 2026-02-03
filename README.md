@@ -9,6 +9,7 @@
 [![dependency - selenium](https://img.shields.io/badge/dependency-selenium-blue)](https://pypi.org/project/selenium)
 [![dependency - beautifulsoup4](https://img.shields.io/badge/dependency-beautifulsoup4-blue)](https://pypi.org/project/beautifulsoup4)
 
+_This project is no longer maintained singe 2021 and may no longer work as expected._
 
 ## Purpose
 
