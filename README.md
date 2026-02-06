@@ -1,4 +1,4 @@
-# Scroll and Scrape
+# Scroll and Scrape Twitter
 > Store tweets from a Twitter search results, using browser scraping
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/scroll-and-scrape?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/scroll-and-scrape/releases/)
@@ -9,6 +9,7 @@
 [![dependency - selenium](https://img.shields.io/badge/dependency-selenium-blue)](https://pypi.org/project/selenium)
 [![dependency - beautifulsoup4](https://img.shields.io/badge/dependency-beautifulsoup4-blue)](https://pypi.org/project/beautifulsoup4)
 
+_This project is no longer maintained singe 2021 and may no longer work as expected._
 
 ## Purpose
 
